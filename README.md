@@ -10,7 +10,7 @@
 <div align = "left">
 🌿 I'm a Computer Science student trying to figure out which area I belong to, and that's my personal account to share my progress.
 <br><br>
-📖 I have 2 years of internship experience with data analysis and 1 year of experience with Low-Code/No-Code development using Power Apps and Power Automate. I also know a bit of Quickbase too.
+📖 I have 2 years of internship experience with data analysis and 1 year of experience with Low-Code/No-Code development using Power Apps and Power Automate. I also know a bit of Quickbase.
 <br><br>
 🪼 Now I've started my Back-End development studies and am very interested in becoming a Full-Stack dev someday.
 </div>
