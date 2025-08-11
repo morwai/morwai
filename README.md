@@ -8,7 +8,7 @@
 <img align = "right" src = "https://64.media.tumblr.com/39b95e8844d55257fe8b3a3a4f7b3abd/fe567f55e35f2826-b2/s540x810/6698d7955fa422c9a472e8d367c1eafe32f31507.gifv">
 </div>
 <div align = "left">
-🌿 I'm a Computer Science student still trying to figure out which area I belong to, and that's my personal account to share my progress.
+🌿 I'm a Computer Science student trying to figure out which area I belong to, and that's my personal account to share my progress.
 <br><br>
 📖 I have 2 years of internship experience with data analysis and 1 year of experience with Low-Code/No-Code development using Power Apps and Power Automate. I also know a bit of Quickbase too.
 <br><br>
@@ -32,6 +32,13 @@
 ### Known Techs
 
 ![Tools](https://skillicons.dev/icons?i=java,python,mysql,html,css,figma,git,github)
+
+<hr/>
+
+### Stats
+
+![morwai's Stats](https://github-readme-stats.vercel.app/api?username=morwai&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![morwai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morwai&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
