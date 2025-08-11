@@ -5,7 +5,7 @@
 </div>
 
 <div align = "center">
-<img align = "right" src = "https://64.media.tumblr.com/39b95e8844d55257fe8b3a3a4f7b3abd/fe567f55e35f2826-b2/s540x810/6698d7955fa422c9a472e8d367c1eafe32f31507.gifv">
+<img align = "right" src = "https://github.com/morwai/morwai/blob/main/giffrieren.webp">
 </div>
 <div align = "left">
 🌿 I'm a Computer Science student trying to figure out which area I belong to, and that's my personal account to share my progress.
@@ -37,8 +37,8 @@
 
 ### Stats
 
-![morwai's Stats](https://github-readme-stats.vercel.app/api?username=morwai&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![morwai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morwai&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+<img src = "https://github-readme-stats.vercel.app/api?username=morwai&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=morwai&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
 
 </div>
 
