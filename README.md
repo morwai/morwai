@@ -15,7 +15,7 @@
 🪼 Now I've started my Back-End development studies and am very interested in being a Full-Stack dev someday.
 </div>
 
-<br>
+<br><br>
 
 <div align = "right">
 
