@@ -12,7 +12,7 @@
 <br><br>
 📖 I have 2 years of internship experience with data analysis and 1 year of experience with Low-Code/No-Code development using Power Apps and Power Automate. I also know a bit of Quickbase.
 <br><br>
-🪼 Now I've started my Back-End development studies and am very interested in becoming a Full-Stack dev someday.
+🪼 Now my main goal is becoming a Full-Stack dev. I'm currently studying Java, JavaScript, HTML and CSS.
 </div>
 
 <br><br>
@@ -31,7 +31,7 @@
 
 ### Known Techs
 
-![Tools](https://skillicons.dev/icons?i=java,python,mysql,html,css,figma,git,github)
+![Tools](https://skillicons.dev/icons?i=java,python,javascript,mysql,html,css,figma,git,github)
 
 <hr/>
 
