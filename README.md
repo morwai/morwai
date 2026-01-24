@@ -8,11 +8,11 @@
 <img align = "right" src = "https://github.com/morwai/morwai/blob/main/giffrieren.webp">
 </div>
 <div align = "left">
-🌿 I'm a Computer Science student trying to figure out which area I belong to, and that's my personal account to share my progress.
+🌿 I'm a Computer Science graduate still trying to figure out which area I belong to, and that's my personal account to share my progress.
 <br><br>
 📖 I have 2 years of internship experience with data analysis and 1 year of experience with Low-Code/No-Code development using Power Apps and Power Automate. I also know a bit of Quickbase.
 <br><br>
-🪼 Now my main goal is becoming a Full-Stack dev. I'm currently studying Java, JavaScript, HTML and CSS.
+🪼 I'm always trying to improve my skills and explore new tools, as a curious person I can say I'll never stop learning.
 </div>
 
 <br><br>
